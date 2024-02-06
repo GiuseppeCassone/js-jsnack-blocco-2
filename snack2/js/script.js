@@ -25,8 +25,6 @@ do {
         document.getElementById(`result`).innerHTML = "Il numero inserito è quello corretto";
     }
 
-}
-
-while (rightNumber !== true){
+} while (rightNumber !== true){
 
 }
